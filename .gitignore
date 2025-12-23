@@ -1,4 +1,9 @@
 .env
 node_modules
 
-release
+release/win-unpacked
+release/builder-debug.yml
+release/builder-effective-config.yaml
+release/My AI Apps Setup 1.0.0.exe.blockmap
+release/latest.yml
+dist
